@@ -1,13 +1,14 @@
-# IRON HACK Data Project 1 README file, from José Miguel González 
+# IRON HACK Data Project 1 README file
+##from José Miguel González 
 
-This is my first project as a former Data Science Actuary (I am already an Actuary so I am working on the first part).
+This is my first project as a former Data Science Actuary (I am already an Actuary so I am working hard on the first part :baby:).
 
 ---
 
-## **Formatting**
-Your readers will most likely view your README in a browser so please keep that in mind when formatting its content: 
-- Use proper format when necesary (e.g.: `import pandas as pd`). 
-- Categorize content using two or three levels of header beneath. 
+## **What does this project do?**
+Well, this is a pretty interesting way to put in practice all we have learnt so far:
+- It imports a db. by using "sqlalchemy", there were some tables to merge so some sql was used here!.
+- It gets the labels of different job positions from an API, starting from an id. 
 - Make use of **emphasis** to call out important words. 
 - Link to project pages for related libraries you mention. Link to Wikipedia, Wiktionary, even Urban Dictionary definitions for words of which a reader may not be familiar. Make amusing cultural references. 
 - Add links to related projects or services. 
