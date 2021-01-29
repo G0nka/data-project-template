@@ -10,10 +10,9 @@ Well, I think this is a pretty interesting way to put in practice all we have le
 
 - It imports a **db.** by using "sqlalchemy", there were some tables to merge so some SQL was used here!.
 - It gets the labels of different job positions from an **API**, starting from a previous id. 
-- More data from the internet was needed, but no API was available this time... so we used **webscraping** to obtain the complete name of the countries. 
-
-- Add links to related projects or services. 
-
+- More data from the internet was needed, but no API was available this time... so we used **webscraping** to obtain the complete name of the countries
+- Once all the information is available, it performs a **cleaning** and also **group** the data to get some stats.
+- Finally it saves a **.csv** with the conclussions.
 
 ### :file_folder: **Folder structure**
 ```
@@ -33,6 +32,7 @@ Well, I think this is a pretty interesting way to put in practice all we have le
 
 ### :shit: **ToDo**
 
-Well, I absolutelly forgot one important procedure to this project:
+Well, I absolutelly forgot one important procedure to this project: I did not see that a filter was needed so...
+you can surely wait for a v2 with this amazing feature coming soon 
 
 
