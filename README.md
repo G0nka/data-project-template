@@ -32,7 +32,8 @@ Well, I think this is a pretty interesting way to put in practice all we have le
 
 ### :shit: **ToDo**
 
-Well, I absolutelly forgot one important procedure to this project: I did not see that a filter was needed so...
-you can surely wait for a v2 with this amazing feature coming soon 
+Well, I absolutelly forgot one important procedure to this project: 
+I did not see a filter was needed so...:cry::cry::cry:
+            you can surely wait for a v2 with this amazing feature coming soon!!!
 
 
