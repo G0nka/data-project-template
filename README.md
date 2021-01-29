@@ -1,13 +1,6 @@
-# Data Project README file
+# IRON HACK Data Project 1 README file, from José Miguel González 
 
-The README file describes the essence of the project playing the most important role. Most visitors will simply scroll down about twice on the README and leave if they are not interested. So, the README file should provide the reason **why** to checkout your project!!!). 
-Bearing that in mind, your job is to: 
-- Tell them what it is (with context).
-- Show them what it looks like in action.
-- Show them how they use it.
-- Tell them any other relevant details.
-
-![Image](https://res.cloudinary.com/springboard-images/image/upload/q_auto,f_auto,fl_lossy/wordpress/2019/05/aiexcerpt.png)
+This is my first project as a former Data Science Actuary (I am already an Actuary so I am working on the first part).
 
 ---
 
